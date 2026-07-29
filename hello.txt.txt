@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This version
 Hello gits
+=======
+This is my second version
+>>>>>>> ca841c23f249ee9e6079b5906d14295322313107
