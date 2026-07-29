@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
 "scripts": {
-  "test": "node test.js"
-}
-  "keywords": [],
+    "test": "node test.js"
+  },
+  "keywords" : [],
   "author": "",
   "license": "ISC",
   "type": "commonjs"
 }
+  
